@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Dancing+Script&display=swap');
+
+#expresso {
+    height: 9rem;
+    width: 18rem;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.line{
+    border-top-color:red;
+    width: 40%;
+}
+
+#mocha{
+    height: 20rem;
+    width: 18rem;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+th{
+    background-color: #591902;
+}
+
+tr th{
+    color:#fff;
+}
+
+td{
+    background-color: #f29d35;
+}
+
+.desc{
+    margin-left: 10px;
+}
+
+.classificacao{
+    text-align: center;
+    margin:10px;
+}   
+
+h2{
+    margin-top: 20px;
+    margin-bottom: 1px;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+.justify{
+    text-align: justify;
+    font-family: 'Dancing Script', cursive;
+}
+
+article{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.titulo{
+    font-family: 'Berkshire Swash', sans-serif, cursive;
+}
+
+footer{
+    font-family: 'Dancing Script', sans-serif, cursive;
+}
+
+
