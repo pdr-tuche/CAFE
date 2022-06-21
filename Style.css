@@ -5,6 +5,7 @@
     width: 18rem;
     border-radius: 10px;
     margin-right: 20px;
+    box-shadow: 5px 10px #4d4d4d52;
 }
 
 .line{
@@ -17,6 +18,7 @@
     width: 18rem;
     border-radius: 10px;
     margin-right: 20px;
+    box-shadow: 5px 10px #4d4d4d52;
 }
 
 th{
@@ -67,4 +69,20 @@ footer{
     font-family: 'Dancing Script', sans-serif, cursive;
 }
 
+#img{
+    height: 700px;
+    width:100%;
+    background-image: url('./Assets/cofee.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    display: inline-block;
+}
+h1{
+    padding: 2rem;
+    color:#fff;
+    position:absolute;
+    bottom: 12rem;
+    background-color: #591902bb;
+}
 
